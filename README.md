@@ -7,6 +7,8 @@ Smith [1] designed an iterative method for optimizing the positions of Steiner p
 
 This repository contains Smith's original C-code verbatim from the pdf version of the paper as well as an updated version that has been updated to compile on GCC 4.2 (but with no changes to the logic of the program).
 
+* [1] Warren D. Smith. How to find Steiner minimal trees in euclidean d-space. Algorithmica (1992) Volume 7, Issue 1-6, pp 137-177
+
 # Compiling
 
 ```
